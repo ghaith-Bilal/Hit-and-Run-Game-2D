@@ -1,0 +1,146 @@
+C:\Users\ibrahim\Documents\Project2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\obj\Debug\Assembly-CSharp.dll
+C:\Users\ibrahim\Desktop\GamesPlusJames\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\obj\Debug\Assembly-CSharp.dll
+C:\Users\Anwar\Desktop\مشررررررروع الراااااااااااااااااااااااااااااابعة\Project2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Anwar\Desktop\WW\Project2\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Anwar\Desktop\WW\Project2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Anwar\Desktop\WW\Project2\obj\Debug\Assembly-CSharp.dll
+C:\Users\Anwar\Desktop\WW\Project2\obj\Debug\Assembly-CSharp.pdb
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEditor.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.VR.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Mono.Cecil.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Unity.DataContract.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.xml
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEditor.xml
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.UI.xml
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\مشروع السنة الرابعة\New folder\WW\Project2\Temp\bin\Debug\UnityEngine.VR.xml
+D:\مشروع السنة الرابعة\New folder\WW\Project2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\مشروع السنة الرابعة\New folder\WW\Project2\obj\Debug\Assembly-CSharp.dll
+D:\مشروع السنة الرابعة\New folder\WW\Project2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Anwar\Desktop\مشروع السنة الرابعة\Project\obj\Debug\Assembly-CSharp.pdb
